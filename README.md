@@ -1,7 +1,7 @@
 # Wheel_of_Fortune_BUILD
 
 ## How it looks like
-![](/Media/WheelOfFortune_Preview.gif)
+![](/Media/WheelOfFortune_Preview_v1.1.gif)
 
 ## Instruction
 1. Download as .zip
