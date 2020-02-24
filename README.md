@@ -9,3 +9,4 @@
 6. Have fun!
 
 ## How it looks like
+![](/Media/WheelOfFortune_Preview.gif)
